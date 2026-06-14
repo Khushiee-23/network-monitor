@@ -1,0 +1,9 @@
+
+=============================================
+Scan Time: 2026-06-14 07:39:22
+=============================================
+google.com           OFFLINE
+cisco.com            OFFLINE
+github.com           ONLINE
+8.8.8.8              ONLINE
+1.1.1.1              ONLINE
