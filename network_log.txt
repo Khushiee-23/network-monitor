@@ -7,3 +7,73 @@ cisco.com            OFFLINE
 github.com           ONLINE
 8.8.8.8              ONLINE
 1.1.1.1              ONLINE
+
+Scan #1 | 2026-06-14 09:17:30
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #2 | 2026-06-14 09:17:41
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #3 | 2026-06-14 09:17:52
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #4 | 2026-06-14 09:18:03
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #5 | 2026-06-14 09:18:14
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #6 | 2026-06-14 09:18:25
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #7 | 2026-06-14 09:18:36
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #8 | 2026-06-14 09:18:47
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #9 | 2026-06-14 09:18:58
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
+
+Scan #10 | 2026-06-14 09:19:09
+  google.com           OFFLINE
+  cisco.com            OFFLINE
+  github.com           ONLINE
+  8.8.8.8              ONLINE
+  1.1.1.1              ONLINE
